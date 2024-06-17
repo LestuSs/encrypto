@@ -1,0 +1,7 @@
+Target_Encrypt_dir:"C:/Users/rapha/PycharmProjects/encryptoGit/Encrypted"
+Target_Decrypt_dir:"C:/Users/rapha/PycharmProjects/encryptoGit/Decrypted"
+
+Remove_Files:False
+
+
+
